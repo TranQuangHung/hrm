@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/hrm/symfony/plugins/orangehrmDashboardPlugin/web/js/flot/jquery.min.js</file>
+            <file>file:/C:/xampp/htdocs/hrm/symfony/plugins/orangehrmAdminPlugin/modules/admin/templates/jobCategorySuccess.php</file>
+            <file>file:/C:/xampp/htdocs/hrm/symfony/web/index.php</file>
+            <file>file:/C:/xampp/htdocs/hrm/symfony/lib/vendor/log4php/appenders/LoggerAppenderFile.php</file>
+            <file>file:/C:/xampp/htdocs/hrm/upgrader/apps/upgrader/templates/layout.php</file>
+            <file>file:/C:/xampp/htdocs/hrm/symfony/web/webres_55a775cf9fcff8.50052456/js/jquery/jquery-1.7.2.min.js</file>
+            <file>file:/C:/xampp/htdocs/hrm/symfony/lib/vendor/log4php/appenders/LoggerAppenderEcho.php</file>
+            <file>file:/C:/xampp/htdocs/hrm/symfony/apps/orangehrm/templates/noHeader.php</file>
+            <file>file:/C:/xampp/htdocs/hrm/symfony/web/webres_55a775cf9fcff8.50052456/themes/default/css/main.css</file>
+            <file>file:/C:/xampp/htdocs/hrm/symfony/plugins/orangehrmAdminPlugin/modules/admin/templates/nationalitySuccess.php</file>
+            <file>file:/C:/xampp/htdocs/hrm/symfony/apps/orangehrm/i18n/messages.zz_ZZ.xml</file>
+            <file>file:/C:/xampp/htdocs/hrm/symfony/apps/orangehrm/templates/_footer.php</file>
+            <file>file:/C:/xampp/htdocs/hrm/symfony/lib/vendor/log4php/appenders/LoggerAppenderMail.php</file>
+            <file>file:/C:/xampp/htdocs/hrm/symfony/apps/orangehrm/templates/_footer_copyright_social_links.php</file>
+            <file>file:/C:/xampp/htdocs/hrm/installer/guide/style.css</file>
+            <file>file:/C:/xampp/htdocs/hrm/installer/guide/index.html</file>
+            <file>file:/C:/xampp/htdocs/hrm/license/3rdParty/ypslideoutmenus.license.html</file>
+            <file>file:/C:/xampp/htdocs/hrm/symfony/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates/newSuccess.php</file>
+            <file>file:/C:/xampp/htdocs/hrm/new_changed_features.txt</file>
+            <file>file:/C:/xampp/htdocs/hrm/symfony/apps/orangehrm/i18n/messages.vi_VN.xml</file>
+            <file>file:/C:/xampp/htdocs/hrm/symfony/web/themes/default/css/main.css</file>
+            <file>file:/C:/xampp/htdocs/hrm/dbscript/dbscript-2.sql</file>
+            <file>file:/C:/xampp/htdocs/hrm/symfony/lib/vendor/log4php/LoggerLayout.php</file>
+            <file>file:/C:/xampp/htdocs/hrm/symfony/lib/vendor/log4php/appenders/LoggerAppenderConsole.php</file>
+            <file>file:/C:/xampp/htdocs/hrm/symfony/apps/orangehrm/i18n/messages.en_US.xml</file>
+            <file>file:/C:/xampp/htdocs/hrm/symfony/apps/orangehrm/templates/_copyright.php</file>
+            <file>file:/C:/xampp/htdocs/hrm/upgrader/apps/upgrader/lib/schemaIncrementTasks/SchemaIncrementTask55.php</file>
+            <file>file:/C:/xampp/htdocs/hrm/symfony/plugins/orangehrmAdminPlugin/modules/admin/templates/viewSystemUsersSuccess.php</file>
+            <file>file:/C:/xampp/htdocs/hrm/symfony/apps/orangehrm/modules/auth/templates/loginSuccess.php</file>
+            <file>file:/C:/xampp/htdocs/hrm/symfony/cache/orangehrm/prod/i18n/d7ac9195003d2d58065310fb429b21a1messages.en_US.xml/en_US.cache</file>
+            <file>file:/C:/xampp/htdocs/hrm/symfony/apps/orangehrm/templates/freshorange.php</file>
+            <file>file:/C:/xampp/htdocs/hrm/symfony/plugins/orangehrmLeavePlugin/modules/leave/templates/leaveTypeListSuccess.php</file>
+            <file>file:/C:/xampp/htdocs/hrm/installer/installerUI.php</file>
+            <file>file:/C:/xampp/htdocs/hrm/symfony/apps/orangehrm/templates/layout.php</file>
+            <file>file:/C:/xampp/htdocs/hrm/installer/style.css</file>
+            <file>file:/C:/xampp/htdocs/hrm/symfony/plugins/orangehrmAdminPlugin/modules/admin/templates/viewSkillsSuccess.php</file>
+        </group>
+    </open-files>
+</project-private>
